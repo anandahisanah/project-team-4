@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    cout<<"Masukkan jumlah angka yang ingin di input:   ";
+    cout<<"Masukkan jumlah angka yang ingin di input: ";
     int angka;
     cin>>angka;
     int array[angka], key, i;

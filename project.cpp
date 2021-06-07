@@ -13,7 +13,7 @@ using namespace std;
 int main() {
     // cout berfungsi untuk menampilkan data ke alat output khususnya data berupa teks.
     // 🡳🡳🡳
-    cout<<"Masukkan jumlah angka yang ingin di input:   ";
+    cout<<"Masukkan jumlah angka yang ingin di input: ";
     // Mendefinisikan variabel Angka sebagai Integer, berfungsi mengkonversi bilangan menjadi 
     // bilangan bulat (integer)
     // 🡳🡳🡳
