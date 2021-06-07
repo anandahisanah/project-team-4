@@ -1,15 +1,22 @@
-<h1>
+<h3>Kami dari Kelompok 4 👋👋👋</h3>
+<ul>
+    <li>Ananda Nur Hisanah - 2011028</li>
+    <li>Muhammad Ulil Amri - 2011085</li>
+    <li>Kevin Mag - 2011028</li>
+    <li>Jodi Mahendra - </li>
+</ul>
+<b>
     Compile file  
     <br>
     🡳🡳🡳
-</h1>
+</b>
 
 g++ -o project code.cpp
 
-<h1>
+<b>
     Run file via cmd
     <br>
     🡳🡳🡳
-</h1>
+</b>
 
 ./project.exe
