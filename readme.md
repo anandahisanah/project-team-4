@@ -9,10 +9,8 @@
 </ul>
 <hr>
 <h4>Compile file</h4>
-<br>
 g++ -o project code.cpp
 <hr>
 <h4>Run file via cmd</h4>
-<br>
 ./project.exe
 <hr>
