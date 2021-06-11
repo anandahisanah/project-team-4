@@ -9,7 +9,7 @@
 </ul>
 <hr>
 <h4>Compile file</h4>
-g++ -o project code.cpp
+g++ -o project project.cpp
 <hr>
 <h4>Run file via cmd</h4>
 ./project.exe
