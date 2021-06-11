@@ -8,11 +8,11 @@
     <li>Jodi Mahendra - 2011053</li>
 </ul>
 <hr>
-<b>Compile file</b>
+<h4>Compile file</h4>
 <br>
 g++ -o project code.cpp
 <hr>
-<b>Run file via cmd</b>
+<h4>Run file via cmd</h4>
 <br>
 ./project.exe
 <hr>
