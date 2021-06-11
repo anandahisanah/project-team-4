@@ -1,5 +1,5 @@
 <h3>Kami dari Kelompok 4 👋👋👋</h3>
-<p>Tugas Akhir Mata Kuliah Struktur Data</p>
+<p>Tugas Akhir Mata Kuliah <b>Struktur Data</b></p>
 <p>Dosen : Shinta Palupi</p>
 <ul>
     <li>Ananda Nur Hisanah - 2011028</li>
